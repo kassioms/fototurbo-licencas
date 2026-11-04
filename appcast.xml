@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>FotoTurbo</title>
+        <item>
+            <title>FotoTurbo 2.3</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Wi-Fi (FTP): aviso quando o Mac está na banda de 2,4 GHz, a mais lenta, com o que fazer para usar a de 5 GHz</li><li>Monitoramento: velocidade real com que as fotos chegam da câmera, ao vivo, com alerta quando a rede fica lenta</li><li>Ajustes do Lightroom: curva de tons, calibração, vinheta da lente e redução de ruído (presets importados ficam mais fiéis)</li><li>Edição: as fotos da grade aparecem no formato em que foram tiradas, sem cortar a cabeça</li><li>Auto em cada foto: Exposição, Temperatura e Colorir voltam a funcionar como ajuste fino</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.3/FotoTurbo-2.3.dmg" length="71729682" type="application/octet-stream" sparkle:edSignature="fFArscwo+z+4rZT/TJ9CxycgtF9iv5DlFI0n43xzFSQVogx+5Po3e6Bgjgwp4DBj7m+wbx1mC1BQ6s8tMBnoAw=="/>
+        </item>
+    </channel>
+</rss>
