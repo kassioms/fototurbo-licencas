@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.7</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Tela cheia: a tecla L esconde as informações um lado de cada vez (1º a esquerda, 2º a direita, só a foto; 3º e 4º mostram de volta)</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.7/FotoTurbo-2.7.dmg" length="72433619" type="application/octet-stream" sparkle:edSignature="37Obg2hhlwDsI85RUptMLx01f7hdc70/vi/zbZOpGr1+XEzss/eKIPN/VRWeOrwj9Q3284AGU5g47BDD+n4iDA=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.6</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>7</sparkle:version>
