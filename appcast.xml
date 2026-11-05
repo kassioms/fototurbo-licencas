@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.4</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Cabo USB: se a câmera demora para ler um cartão cheio, o app pergunta se começa direto pelas fotos novas (nada é apagado do cartão)</li><li>A faixa azul de recebimento aparece só em Configurações e Monitoramento; nas outras abas fica só o indicador do canto</li><li>Reconhecimento facial mais rigoroso ao juntar grupos: evita misturar crianças parecidas na mesma pessoa</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.4/FotoTurbo-2.4.dmg" length="71834825" type="application/octet-stream" sparkle:edSignature="+gepGADc5rz+uia9BK4upxHALpic1cdAw3HLy6ny1943FYh44xH+0ZnfP069pPjWALKb/Jqc6Ec20+oDKG31AA=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.3</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>4</sparkle:version>
