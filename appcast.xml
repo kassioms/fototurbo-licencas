@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.5</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Edição: "Editar só esta foto" ajusta uma foto à parte, sem mudar o fluxo nem as próximas fotos (grava na Saída sozinha)</li><li>Selecione várias fotos com ⌘-clique ou ⇧-clique (⌘A seleciona todas)</li><li>Copiar e colar ajustes: ⌘C numa foto e ⌘V nas selecionadas</li><li>Exportar: cópias editadas das fotos selecionadas numa pasta à sua escolha, sem mexer na Saída</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.5/FotoTurbo-2.5.dmg" length="72123062" type="application/octet-stream" sparkle:edSignature="svvGZPOQ/50V1SawHd24HdHx7YjiiZQ7yCpNbPi1ONJpVM39exkX8Xa/6CDTMP29LlGr5hemNfM7eIKs21HwDQ=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.4</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>5</sparkle:version>
