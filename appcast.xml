@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.10</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>2.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Edição: a caixa do topo virou a seção "Exportação individual", que abre e fecha como as outras</li><li>Botões "Copiar ajustes" e "Colar ajustes"</li><li>"Auto em cada foto" foi retirado (o botão Auto continua, aplicado quando você pedir)</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.10/FotoTurbo-2.10.dmg" length="72701982" type="application/octet-stream" sparkle:edSignature="fckOkFY3CIF9YJT82Ys/sg5zPj3/oot6nH6U9BDI/jclI/cB5ssTwjfCBQYOPVwS/D9zBaQZTWSMSZFV/YiICA=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.9</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>10</sparkle:version>
