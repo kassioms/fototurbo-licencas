@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.16</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>2.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Edições alternadas: agora sempre uma edição diferente a cada foto (você continua escolhendo quais usar)</li><li>Miniaturas certas para as fotos que o programa do site já moveu para Saida/Carregadas</li><li>Ao reabrir a sessão, as fotos já enviadas ao site não são exportadas de novo (evita duplicadas no site)</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.16/FotoTurbo-2.16.dmg" length="67113892" type="application/octet-stream" sparkle:edSignature="vDGe/MN+1xtLbTI9CGaJ/Lnv35xtByqDfuKoKJboAAbKlOwcuM/zjLT32SRy8H1xEx07xztgPjlhvlcWWONwAQ=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.15</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>16</sparkle:version>
