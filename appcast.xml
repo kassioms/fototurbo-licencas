@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.11</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>2.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Câmeras Sony Alpha pelo cabo USB (A7 III e similares): use Conexão USB em "PC Remote"; a câmera deixa de ficar em "Connecting…" e as fotos novas chegam sozinhas</li><li>Mais proteção do aplicativo e da licença</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.11/FotoTurbo-2.11.dmg" length="67077977" type="application/octet-stream" sparkle:edSignature="SAlSOUFO6o29LYTtfjU8Xlfp/SjeSJf/6nWUOPMSK81OlTeeAGXUBQV3LUug2ug26DHbQkDHvbf7jGEcj6s6BA=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.10</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>11</sparkle:version>
