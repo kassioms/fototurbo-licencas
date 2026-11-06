@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.9</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>2.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Presets do Lightroom mais fiéis: curva de tons por pontos (geral e por cor) e gradação de cores agora são importadas</li><li>Nova seção "Gradação de cores" no painel de ajustes</li><li>Títulos das seções de ajustes clicáveis de ponta a ponta, como no Lightroom</li><li>"Exportar…" não sobrescreve mais: se o nome já existe, grava como -2, -3…</li><li>Nome dos presets importados sem códigos estranhos (& aparece certo)</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.9/FotoTurbo-2.9.dmg" length="72817598" type="application/octet-stream" sparkle:edSignature="mrLOuy6Hh7KIIfA4GDSkjNGVZ6mOLqCCp9GyKMa4zsm3cZMiDKs9AcbGUZJMzCMqkXH78b5eJHdQaCZVqGuRAw=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.8</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>9</sparkle:version>
