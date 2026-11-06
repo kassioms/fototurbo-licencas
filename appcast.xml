@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.15</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>2.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Edições alternadas seguem a ordem dos cliques (número da foto), mesmo quando as fotos chegam fora de ordem</li><li>A grade e a fila ficam na ordem em que as fotos foram tiradas</li><li>Tela cheia mostra o nome da edição de cada foto</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.15/FotoTurbo-2.15.dmg" length="67110397" type="application/octet-stream" sparkle:edSignature="sU2XHzy3ZNmi+SojQfPGJ9cL4oAoBg17zVd7hZRpNmoAFZobpJGj0Hds6HLU8LIaHmtNoTrkYGoWtvx67rAcCg=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.14</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>15</sparkle:version>
