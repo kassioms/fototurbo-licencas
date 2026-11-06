@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.12</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>2.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Sony pelo cabo (PC Remote): corrigida a conexão que caía logo depois de conectar; agora o app espera o aviso de foto nova da câmera</li><li>Relatório da conexão mais completo (câmera aparecendo ou sumindo no cabo e cada passo da conexão)</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.12/FotoTurbo-2.12.dmg" length="67094210" type="application/octet-stream" sparkle:edSignature="VcEw5L+Fl+71HqqA4wqFyiwdFfds7lcHSkYZORlUY4NK+sa2m5C8dG0UY/vE+2R10tLaF/EKYQzDAvNJqQREDQ=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.11</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>12</sparkle:version>
