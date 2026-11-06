@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.8</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Edições alternadas: guarde até 3 edições (A, B, C) e alterne entre elas a cada N fotos, nas fotos novas e em "Reaplicar em todas"</li><li>Botão "Atualização" ao lado do aviso do serviço, com as novidades de todas as versões que você ainda não instalou</li><li>Botão Auto fica azul só quando o Auto está aplicado</li><li>Aba Rejeitadas reorganizada: nada mais cortado</li><li>"Nova predefinição" logo abaixo da lista de predefinições</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.8/FotoTurbo-2.8.dmg" length="72671221" type="application/octet-stream" sparkle:edSignature="R38hZw3U40BZg79UqH7qLTtcA62LhujEzMsZZ1OSPWlouUNHX4QdIM6F52o5yrLv+i296ED+HTeIyuT548tvCw=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.7</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>8</sparkle:version>
