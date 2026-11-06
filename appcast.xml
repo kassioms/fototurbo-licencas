@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.13</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>2.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Edições alternadas: a foto grande, a tela cheia e o 2º monitor agora mostram a edição que cada foto recebeu (a mesma da Saída)</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.13/FotoTurbo-2.13.dmg" length="67095029" type="application/octet-stream" sparkle:edSignature="jvCHhSdRT6tcYN7JWAqdmXGn8VU4ZxgVIHfRhop9s8zQBQCqvi08vaKAZbdZVhEaD2SNXTJmPxY+NMlvcW48AQ=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.12</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>13</sparkle:version>
