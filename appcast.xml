@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.17</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>2.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Wi-Fi: o painel explica como enviar as fotos que já estavam no cartão (pelo menu da câmera ou pelo modo Importar pasta)</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.17/FotoTurbo-2.17.dmg" length="67116011" type="application/octet-stream" sparkle:edSignature="xvhPd8xKqYdjB/P0yjjvcclvgO3YxKOlQR3k8vnN16euFY0Tgf65/b0PkzF2O7OtSvnWOnFWA/nJeEoeyu3dDA=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.16</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>17</sparkle:version>
