@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.18</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>2.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Importar: ao iniciar sem escolher a pasta (ou com o cartão desconectado), o app avisa e abre o painel Câmera em vez de ficar esperando</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.18/FotoTurbo-2.18.dmg" length="67120048" type="application/octet-stream" sparkle:edSignature="8NpE2Z8m4N0EHE6LhwDG8aKPOr1niVvXVYSbP8UinNBar7RoeEh7G3n9s0OTGhEo3BdKEXeLEVKgZsJZjyYxCA=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.17</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>18</sparkle:version>
