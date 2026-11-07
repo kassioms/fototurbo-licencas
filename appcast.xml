@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.19</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>2.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>"Baixar os vídeos também" agora vale também no modo Importar e no Wi-Fi: os vídeos vão para a pasta Videos, ao lado da Entrada</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.19/FotoTurbo-2.19.dmg" length="67123651" type="application/octet-stream" sparkle:edSignature="C99g79EH4UFo3XkEC8QDRrj1aRo5YXtpfT1x/sd6uh9Huy59Fy5uF2bEc9Rz6rC5C6ENeBOggfs2tRaGy5jrCA=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.18</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>19</sparkle:version>
