@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.21</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>2.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Nova aba Vídeos: os vídeos que chegam da câmera aparecem sozinhos, com prévia ao vivo dos ajustes, no mesmo fluxo de lote das fotos (esperar aprovação, aprovar, travar) e indo para a Saída</li><li>Vídeos: girar 90° (vertical que chega deitado, sem bordas), cortar início e fim, cor de cada vídeo (exposição, contraste, saturação, temperatura e matiz) e marca d'água PNG opcional</li><li>Vídeos: câmera lenta 2× e 4× de qualidade (o Mac cria os quadros intermediários), por vídeo ou em todos de uma vez</li><li>Vídeos: compressão "Site de vendas" (Full HD, toca em qualquer celular e navegador) recomendada; vídeo já exportado e editado é regravado sozinho 10 s depois que você para de mexer</li><li>A aba Edição agora se chama Fotos</li><li>Fotos: a tela grande mostra exatamente o que foi gravado na Saída; ao trocar de predefinição olhando uma foto, um aviso mostra o ajuste novo ainda não gravado</li><li>Edições alternadas sempre visíveis: letra A/B/C nas miniaturas e aviso no lote e no topo da tela</li><li>Câmeras Nikon pelo cabo USB: as fotos novas chegam na hora</li><li>Desfocadas: fotos nítidas de atletas com roupa lisa não são mais rejeitadas</li><li>Blocklist mais precisa: menos fotos de outras pessoas bloqueadas por engano (pessoas de óculos escuros)</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.21/FotoTurbo-2.21.dmg" length="67799911" type="application/octet-stream" sparkle:edSignature="2fzO3GLrIUGkjWjrUU8yL1VuUJ96F7c6fTaFYofBnlQmSEDo3xeLboh/LdZikv8Q+XlkbREDJj9E4nxRGXDpDw=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.20</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>21</sparkle:version>
