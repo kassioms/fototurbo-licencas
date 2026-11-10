@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.23</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>2.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Fotto: envio direto para um evento da Fotto. Em Configurações › Fotto, clique em "Conectar com a Fotto", autorize no navegador e escolha o evento (e a pasta, se houver)</li><li>Fotto: cada foto gravada na Saída sobe sozinha; foto editada e gravada de novo substitui a anterior no evento, e a que já está lá não sobe repetida</li><li>Fotto: prazo encerrado ou limite de fotos do evento aparecem como aviso; se a internet cair, as fotos que falharam voltam para a fila</li><li>Fotto: "Enviar as fotos da Saída que ainda não foram" manda o que já estava na pasta antes de ligar o envio</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.23/FotoTurbo-2.23.dmg" length="68306933" type="application/octet-stream" sparkle:edSignature="UbwJUL+0Ek/rV2z7obazVtKhU1ol1DcFf/7FusAS2SmLprHAFp70+eywAjDoKL9Lryg+TSozg2JNmkyqHQi/CQ=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.22</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>23</sparkle:version>
