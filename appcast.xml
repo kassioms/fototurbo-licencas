@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.24</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>2.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Fotto: na tela cheia (F), um quadro no canto mostra a foto que está subindo para a Fotto, com a porcentagem, a fila, o total enviado e as últimas enviadas</li><li>Fotto: os avisos de prazo, limite e fotos que não subiram também aparecem no quadro (a tecla L esconde e mostra junto com o lado direito)</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.24/FotoTurbo-2.24.dmg" length="68465607" type="application/octet-stream" sparkle:edSignature="I8zxieIrRDlE+Obcmea+XSu93JxwXImIseRA+Ef8jmJgvRrJFIkNU3EdKLljDHrsuNRMQqG38B9AeBYEr//kDQ=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.23</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>24</sparkle:version>
