@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.22</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>2.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Vídeos: corrigido o quadro de outro vídeo que aparecia no primeiro segundo da câmera lenta (exporte de novo os vídeos lentos afetados)</li><li>Vídeos: os vídeos agora ficam numa faixa embaixo, como na aba Fotos; um clique abre, ⌘-clique junta vários, ⇧-clique seleciona um trecho</li><li>Vídeos: predefinições de cor na coluna da esquerda, iguais às das fotos (criar, atualizar, excluir, filtrar); dá para trazer as predefinições das fotos e do Lightroom</li><li>Vídeos: "Alinhar o horizonte" endireita vídeos tortos, com ajuste fino à mão</li><li>Vídeos: "Estabilizar" tira a tremida de vídeos feitos com a câmera na mão, mantendo a panorâmica</li><li>Vídeos: em janela pequena nada some; os painéis recolhem pelas setas das bordas</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.22/FotoTurbo-2.22.dmg" length="68253446" type="application/octet-stream" sparkle:edSignature="UqnIiYRGWY8pR/WFEiGpaXn9Zn6D4Md98RDDCxKhbC5QCrIRbazSFnyJLisfDC1oZKWtA5+/arBLGNph4dsrDw=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.21</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>22</sparkle:version>
