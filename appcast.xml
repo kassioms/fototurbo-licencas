@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.25</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>2.25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Edição: preto e branco. No topo do painel Básico, escolha Cor ou Preto e branco; em P&B, a Mistura P&B define quanto cada cor clareia ou escurece no cinza</li><li>Presets do Lightroom em preto e branco agora funcionam: tratamento P&B, perfil monocromático e perfis criativos P&B (ex.: B&W 03), com a mistura de cinza e a tonalização do preset</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.25/FotoTurbo-2.25.dmg" length="68542231" type="application/octet-stream" sparkle:edSignature="VUf4USoLZ6qHR3J8qxv/2cBXBxAI42aM9QlrR8roPKL7s6fo7jwQzzYH+d1PS6vKjM2F3iBkbQXYxnBz+axqBA=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.24</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>25</sparkle:version>
