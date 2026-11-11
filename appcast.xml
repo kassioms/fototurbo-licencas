@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.26</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>2.26</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Mais rápido em eventos com milhares de fotos: trocar de foto na Edição ficou cerca de 3 vezes mais rápido (medido com uma sessão de 6.231 fotos)</li><li>Corrigido o travamento que acontecia de tempos em tempos com a pasta de Saída cheia (principalmente em HD externo)</li><li>A grade escondida não pesa mais enquanto você edita na foto única</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.26/FotoTurbo-2.26.dmg" length="68560036" type="application/octet-stream" sparkle:edSignature="EoB+D9ngjuo5au+bE1At7m5kChlZv60GQnO9501DNxpEsDFpgo663Q5vO7CDkWJBernsYO+zxtQyBw9O0n2ZCA=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.25</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>26</sparkle:version>
