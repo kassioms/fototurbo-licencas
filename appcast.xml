@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.27</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>2.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Nova aba Início, no modelo do app do celular: câmera, serviço, Fotto, curadoria, envio, vídeos e as fotos recentes num olhar só (Configurações foi para o fim)</li><li>Recebimento automático: com a sessão aberta, a câmera no cabo e o Wi-Fi FTP já recebem sozinhos; o botão virou Pausar/Retomar recebimento (Importar pasta continua no botão)</li><li>Captura automática (Canon no cabo): quando um rosto entra na zona, a câmera faz uma rajada com o número de fotos escolhido, uma rajada por rosto; com botão Refocar para quando a lente se perde no infinito</li><li>As miniaturas das fotos em espera no lote já mostram o ajuste que elas vão receber</li><li>Corrigido: a chave e as letras das edições alternadas não respondiam com a janela estreita (o clique caía em "Reaplicar em todas")</li><li>O quadro de envio da Fotto na tela cheia foi para o alto, à direita, alinhado ao painel de informações</li><li>As telas não ficam mais cortadas ao estreitar a janela</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.27/FotoTurbo-2.27.dmg" length="55725906" type="application/octet-stream" sparkle:edSignature="r8zidnIVSDx2+iNsL+Il+I11VOVa1bH3vQuLqoHmXyP5uCbidjkNvcWP++z9RtOvcx3+5ROc1AnGj/aUJ73YBg=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.26</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>27</sparkle:version>
