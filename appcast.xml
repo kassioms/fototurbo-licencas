@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.28</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>2.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Nova aba Captura: a captura automática continua rodando enquanto você edita nas outras abas (um ponto vermelho na aba mostra que ela está ativa)</li><li>Na captura automática, a tela da câmera continua acesa junto com a imagem ao vivo no Mac</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.28/FotoTurbo-2.28.dmg" length="55723682" type="application/octet-stream" sparkle:edSignature="MSKKkjWJ/uJ4PaNoriehD5NvSa1dUthQ7eftVTL5QL2dvGOZh59mJJK8Buf0j/WFA1vXrQnowUK6Z07BiYciDg=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.27</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>28</sparkle:version>
