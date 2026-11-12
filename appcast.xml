@@ -3,6 +3,15 @@
     <channel>
         <title>FotoTurbo</title>
         <item>
+            <title>FotoTurbo 2.29</title>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>2.29</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Vídeos: o vídeo gravado em pé já chega em pé (a câmera não grava isso no arquivo: o app olha as pessoas e descobre). Sem rosto visível, usa o lado que você girou por último; na aprovação do lote, os que ficaram em dúvida seguem o giro do vídeo aprovado</li><li>Fotto: os vídeos exportados também sobem para o evento, como as fotos</li><li>Blocklist: menos fotos de outras pessoas barradas por engano (semelhança mínima padrão subiu de 0,55 para 0,58)</li><li>Início: as fotos recentes aparecem no formato em que foram tiradas (em pé fica em pé)</li><li>Fotos: a faixa do lote travado ocupa uma linha só; a explicação aparece ao passar o mouse</li><li>Tela cheia: a linha de atalhos fica sempre no topo, acima do quadro de envio da Fotto</li><li>Captura automática saiu da barra de abas e do Início enquanto está em desenvolvimento (Configurações → Em teste liga de novo)</li></ul>]]></description>
+            <enclosure url="https://github.com/kassioms/fototurbo-licencas/releases/download/v2.29/FotoTurbo-2.29.dmg" length="68967617" type="application/octet-stream" sparkle:edSignature="JAglgtkNY2zdrL0T3o2gF/PAZ5tY52mBrr0cvjU12TXmbW6EE6YriSRGzeiojY5OuIHss2Ub5WK3ozdFtVB2Cw=="/>
+        </item>
+        <item>
             <title>FotoTurbo 2.28</title>
             <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
             <sparkle:version>29</sparkle:version>
